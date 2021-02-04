@@ -47,7 +47,7 @@ namespace Microsoft.Toolkit.Uwp.UI.Lottie.LottieData
         internal Animatable<double> OuterRadius { get; }
 
         internal Animatable<double>? InnerRoundness { get; }
-
+        
         internal Animatable<double> OuterRoundness { get; }
 
         /// <inheritdoc/>
